@@ -318,7 +318,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 0vw 9.5vw;
-    /* width: 81vw; */
+    width: 80vw; 
     align-items: flex-start;
     direction: rtl;
   }
