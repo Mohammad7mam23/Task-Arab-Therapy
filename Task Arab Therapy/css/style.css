@@ -276,6 +276,8 @@ body {
     align-items: flex-start; /* محاذاة العناصر عموديًا في المنتصف */
     gap: 20px; /* مسافة بين الكاردات */
     width: 84vw;
+    flex-direction: row-reverse;
+
   }
   
   .card {
